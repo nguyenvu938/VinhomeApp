@@ -1,0 +1,6 @@
+framework module Pods_VinhomeApp {
+  umbrella header "Pods-VinhomeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
